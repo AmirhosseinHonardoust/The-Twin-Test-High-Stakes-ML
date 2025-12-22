@@ -13,7 +13,7 @@
 </div>
 
 ---
-      
+       
 ## A story you’ve seen (even if no one admits it)
 
 A team ships a model into a high-stakes workflow. The model outputs a number.
